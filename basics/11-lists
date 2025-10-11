@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lacf basics holbertonschool-shell /boot
+ls -laU basics holbertonschool-shell /boot
