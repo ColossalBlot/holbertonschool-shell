@@ -1,2 +1,2 @@
 #!/bin/bash
-nano change_vincent_staff.sh <_hello>
+chown -h vincent:staff _hotel
