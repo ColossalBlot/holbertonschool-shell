@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s vincent:staff file_hello
+sudo chown -h vincent:staff _hello
