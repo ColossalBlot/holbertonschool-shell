@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc printf("Hello_world\n")
+echo -n "Hello, World"
